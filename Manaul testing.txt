@@ -1,1 +1,1 @@
-smoke,regression
+smoke,regression,retest,sanity
